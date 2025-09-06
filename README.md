@@ -1,7 +1,7 @@
 # 🟠 Bitcoin Wallet Generator (Tkinter GUI)
 
 A Python-based Bitcoin wallet generator with GUI, mnemonic support, balance checker, dark mode, and auto-save functionality.
-
+For teaching purpose only.
 ---
 
 ## ✅ Features
